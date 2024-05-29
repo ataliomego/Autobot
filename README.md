@@ -4,7 +4,6 @@
 
 <h2 align="center">
 Auto Script Install All VPN Service
-Mod By SL
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 </p> 
@@ -65,8 +64,6 @@ apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
   
 ```html
 sudo su
-cd
-cd
 ```
 
 ## 2.
